@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BH.Gov.FireDepartment.API", "BH.Gov.FireDepartment.API\BH.Gov.FireDepartment.API.csproj", "{F2D54D7D-9455-4101-9E6F-33CAED237B34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BH.Gov.FireDepartment.API.Tests", "BH.Gov.FireDepartment.API.Tests\BH.Gov.FireDepartment.API.Tests.csproj", "{9F41A461-07B1-4F13-AF17-4BBD7E1D3A2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2D54D7D-9455-4101-9E6F-33CAED237B34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2D54D7D-9455-4101-9E6F-33CAED237B34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2D54D7D-9455-4101-9E6F-33CAED237B34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2D54D7D-9455-4101-9E6F-33CAED237B34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F41A461-07B1-4F13-AF17-4BBD7E1D3A2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F41A461-07B1-4F13-AF17-4BBD7E1D3A2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F41A461-07B1-4F13-AF17-4BBD7E1D3A2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F41A461-07B1-4F13-AF17-4BBD7E1D3A2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D4A7669-3B64-445A-98CF-9DE758D3FEA1}
+	EndGlobalSection
+EndGlobal
